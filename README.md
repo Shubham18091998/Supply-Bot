@@ -1,5 +1,4 @@
-
-Supply Bot
+Supply Bot-
 The aim is to integrate your image processing knowledge to build a robot to traverse the arena and solve/complete the
 task.
 Problem Statement:
